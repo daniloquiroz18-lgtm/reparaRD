@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#003366"/>
+  <path d="M100 247 256 112l156 135v151a18 18 0 0 1-18 18H118a18 18 0 0 1-18-18z" fill="#fff"/>
+  <path d="M220 416V282h72v134" fill="#d9534f"/>
+  <path d="m204 230 30-30 28 28-30 30zm49-49 30-30 28 28-30 30zm14 81 30-30 28 28-30 30z" fill="#d9534f"/>
+  <text x="256" y="475" text-anchor="middle" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#fff">reparaRD</text>
+</svg>
